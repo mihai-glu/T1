@@ -11,7 +11,7 @@ const gifList = [
     'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzUxYTYyd3dycjc2am1oZ3hrMGVhZGRlNzIyYmwwejBvcjRlZHQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WT3rmbhBp8bDXRS95L/giphy.gif',
     'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZ0NGtzaXp0bzhndmNyaTd6aXAyenA5dnRyZ3FkZG5ycDYxOHJvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9EARJISh6VwDm/giphy.gif',
     'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXB1ZWxnZGV4am11Z3J5cDNwazAzM2p2YjF6bDN3emppaHUzcnVhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vQYMjq8mIvg5weA/giphy-downsized-large.gif',
-    'https://media3.giphy.com/media/M4GW6K9xQA7l7geKuc/giphy.gif?cid=9b38fe91w5r3wxv3uj6qzsswmmx5rlri9kphum1jolrv6h70&ep=v1_gifs_username&rid=giphy.gif&ct=g',
+    'https://media0.giphy.com/media/tZ8vM5Y6zGyGxHpXAJ/giphy.gif?cid=9b38fe91kvr4vrvqlg6m17xb0q8nynwlbbz6hn5t8g900sh7&ep=v1_gifs_username&rid=giphy.gif&ct=g',
     // Add more GIFs here
 ];
 
