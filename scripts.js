@@ -11,7 +11,7 @@ const gifList = [
     'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzUxYTYyd3dycjc2am1oZ3hrMGVhZGRlNzIyYmwwejBvcjRlZHQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WT3rmbhBp8bDXRS95L/giphy.gif',
     'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZ0NGtzaXp0bzhndmNyaTd6aXAyenA5dnRyZ3FkZG5ycDYxOHJvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9EARJISh6VwDm/giphy.gif',
     'https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXB1ZWxnZGV4am11Z3J5cDNwazAzM2p2YjF6bDN3emppaHUzcnVhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vQYMjq8mIvg5weA/giphy-downsized-large.gif',
-    'gifs/gif.gif',
+    'gifs/gif.GIF',
     // Add more GIFs here
 ];
 
